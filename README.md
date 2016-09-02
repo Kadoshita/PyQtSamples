@@ -1,0 +1,2 @@
+# PyQtSamples
+PyQtのサンプル集
